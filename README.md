@@ -8,5 +8,17 @@ Exercise To Do Before Async Problem Solving Session On Thursday
 Image
 Summary here: https://docs.google.com/document/d/105nRaVJwryvCDBR9PaUYOiDU0qZxgHBrqx-FWWVFGmQ/edit
 ---
+# Slide Links
+https://slides.com/harkiratsingh-3/week-2-2
+
+
+---
+
+
+
+
 # Assignment  
 https://github.com/100xDevs-hkirat/Week-2-Assignments/
+
+
+
