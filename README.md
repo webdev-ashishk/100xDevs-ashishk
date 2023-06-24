@@ -14,11 +14,10 @@ https://slides.com/harkiratsingh-3/week-2-2
 
 ---
 
-
-
-
 # Assignment  
 https://github.com/100xDevs-hkirat/Week-2-Assignments/
 
-
+---
+# Note Links
+https://www.notion.so/madhavanand/Open-Source-Cohort-657da2fdd43d4d2cad1f62e46783bcfc
 
