@@ -1,4 +1,4 @@
-# Extra-Class-on Promises(async)
+# Extra class on Async-JS / Promises
 @everyone 
 Those who are planning to attend @Karan Handa's Extra-Class on 22-06-2023, Please go through this video by @Karan Handa  himself. 🫡 
 https://youtu.be/nyJxMVF7dHw 
