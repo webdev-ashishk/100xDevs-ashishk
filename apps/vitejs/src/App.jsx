@@ -3,7 +3,7 @@ import { ViteCard } from "ui";
 const App = () => {
   return (
     <div>
-      <h1>Welcome to ViteJS........JS</h1>
+      <h1>Welcome to ViteJS....</h1>
       <ViteCard />
     </div>
   );
